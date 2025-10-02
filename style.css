@@ -23,3 +23,20 @@ main {
 svg {
     border: solid lightgrey;
 }
+.center{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+#canvas{
+    position: absolute;
+    border: 2cap, solid, black;
+}
